@@ -1,0 +1,8 @@
+.venv/
+.venv-portrait/
+__pycache__/
+*.pyc
+
+# archive of the uncropped original; the committed source-photo.jpg is the
+# cropped frame the pipeline actually consumes
+source-photo-original.jpg

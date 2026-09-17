@@ -1,0 +1,4 @@
+# Runtime dependencies -- installed by the daily GitHub Actions workflow.
+# Keep this list minimal: it is pip-installed on every scheduled run.
+requests==2.32.3
+beautifulsoup4==4.12.3
