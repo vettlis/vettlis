@@ -1,22 +1,22 @@
 {
   "username": "vettlis",
-  "generated_at": "2026-11-25T17:15:03Z",
+  "generated_at": "2026-11-26T16:55:23Z",
   "range": {
     "start": "2025-11-23",
+    "end": "2026-11-26"
+  },
+  "total_contributions": 3372,
+  "active_days": 196,
+  "avg_per_active_day": 17.2,
+  "current_streak": {
+    "length": 76,
+    "start": "2026-09-11",
     "end": "2026-11-25"
   },
-  "total_contributions": 3371,
-  "active_days": 195,
-  "avg_per_active_day": 17.3,
-  "current_streak": {
-    "length": 75,
-    "start": "2026-09-11",
-    "end": "2026-11-24"
-  },
   "longest_streak": {
-    "length": 75,
+    "length": 76,
     "start": "2026-09-11",
-    "end": "2026-11-24"
+    "end": "2026-11-25"
   },
   "best_day": {
     "date": "2026-10-19",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-11",
-      "total": 438
+      "total": 439
     }
   ],
   "days": [
@@ -1547,6 +1547,10 @@
     },
     {
       "date": "2026-11-25",
+      "count": 1
+    },
+    {
+      "date": "2026-11-26",
       "count": 0
     }
   ]
